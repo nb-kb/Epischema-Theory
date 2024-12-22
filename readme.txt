@@ -61,9 +61,6 @@ Epischema-Taxonomy/
 ├── /contributions    # Guidelines for contributing and submitting ideas
 └── /discussions      # Active discussions and unresolved questions
 
-## License  
-This project is open-source under the [MIT License](LICENSE), encouraging free use, adaptation, and collaboration.
-
 ## Contact  
 For questions or feedback, reach out via GitHub Issues or directly at disco.wizard.music@gmail.com  
 
